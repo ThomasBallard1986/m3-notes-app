@@ -217,6 +217,7 @@ The chosen neutral colour scheme of whites and blacks, along with drop shadows, 
 
 #### Development and Deployment Platform
 
+* [Render.com](https://www.render.com) Migrated to Render.com from Heroku as a free option.
 * [Heroku:](https://www.heroku.com) Chosen for deployment, Heroku provides a platform for hosting and managing web applications, offering scalability and reliability.
 
 #### Database Management
